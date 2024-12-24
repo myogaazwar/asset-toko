@@ -14,9 +14,9 @@ NIK : 19200044
 Password: password
 
 
-##Tampilan
-![screencapture-127-0-0-1-8000-login-2024-12-24-21_00_56](https://github.com/user-attachments/assets/cc9df22a-87ed-4a73-97e9-13c8549576e7)
-![screencapture-127-0-0-1-8000-register-2024-12-24-21_02_14](https://github.com/user-attachments/assets/1448443d-bc4c-40be-93d5-560602771bd2)
+## Tampilan
+![image](https://github.com/user-attachments/assets/ad6a0c26-db28-4cc2-9e73-c2b7a8eb9f6c)
+![image](https://github.com/user-attachments/assets/fa2d204d-b3d5-41a8-808d-4e3a7a372489)
 ![Screenshot 2024-12-24 210355](https://github.com/user-attachments/assets/9c81e3ae-ac24-46d2-897c-c942aba9a05c)
 ![image](https://github.com/user-attachments/assets/76ababaf-0d71-4473-9780-f471c353e94d)
 ![image](https://github.com/user-attachments/assets/402f2359-20b6-4bad-9c55-d4fec6b3c965)
